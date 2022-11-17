@@ -13,7 +13,6 @@
         "GPL-3.0-or-later"
     ],
     "require": {
-        "php": "^7.0",
         "flurrybox/module-core": "^1.0.0"
     },
     "autoload": {
