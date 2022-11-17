@@ -13,7 +13,7 @@
         "GPL-3.0-or-later"
     ],
     "require": {
-        "flurrybox-ergobaby-core/module-core": "^1.0.0"
+        "flurrybox-ergobaby-core/module-core": "dev-master"
     },
     "autoload": {
         "files": [
